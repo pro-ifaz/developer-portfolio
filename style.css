@@ -63,3 +63,7 @@ background-repeat: no-repeat;
     border-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+    color: gray;
+}
